@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48649646452",
+    "project_id": "pollsrus-1f780",
+    "storage_bucket": "pollsrus-1f780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48649646452:android:608218d0acdce9abb2bc21",
+        "android_client_info": {
+          "package_name": "com.example.pollsrus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48649646452-prnbk0vicqiujl0uro5qkmlbut11hdjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBX9unWueU3GZ6ZKw5XSKiAXAA4qW4JUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48649646452-prnbk0vicqiujl0uro5qkmlbut11hdjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
